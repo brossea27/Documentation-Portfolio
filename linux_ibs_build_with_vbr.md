@@ -1,6 +1,6 @@
 # Linux Server Setup with Veeam Immutable Backups Integration
 
-**Author:** brossea27 (GitHub)
+**Author:** brossea27 (GitHub) <br>
 **Version:** Q1-24-0 (O.R.)
 
 This was made on a Dell server using hardware RAID with multiple NICs. iDrac and NIC1 were in use. Being that both are independent, only NIC1 is available to the OS, and it will use static IP configuration.
