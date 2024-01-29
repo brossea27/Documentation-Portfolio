@@ -1,6 +1,6 @@
 # Restic Full System Restore
 
-**Author:** brossea27 (GitHub)
+**Author:** brossea27 (GitHub) <br>
 **Version:** Q1-24-0 (O.R.)
 
 For future reference, an exclusion file was used for backups and contains the following directories:
